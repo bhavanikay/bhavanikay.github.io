@@ -1,4 +1,11 @@
-Challenging Myself One Line of Code at a Time
+--- 
+layout: essay
+type: essay
+published: true
+title: Challending Myself One Line of Code at a Time
+date: 2022-01-19
+
+---
 
 What I know so far...
 
