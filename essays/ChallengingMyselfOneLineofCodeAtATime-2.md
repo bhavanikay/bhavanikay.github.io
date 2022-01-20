@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Challending Myself One Line of Code at a Time
+title: Challenging Myself One Line of Code at a Time
 date: 2022-01-19
 
 ---
