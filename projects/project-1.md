@@ -1,33 +1,20 @@
 ---
 layout: project
 type: project
-image: images/zombie.png
-title: Zombie Apocalypse Maze
-permalink: projects/ZombieApocalypseMaze
+image: images/pet.png
+title: Feed the Creature
+permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-27
+date: 2019-11-15
 labels:
   - Java
   - EZGraphics
+summary: A virtual pet game my group and I created for our ICS 111 project. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/zombie.png">
+<img class="ui medium right floated rounded image" src="../images/pet.png">
 
-This banking database allows users to create a new bank record, view  and edit existing records, and delete records if they wish. This database is written in C and uses the following struct for information:
-
-```
-struct record
-{
-    int                accountno;
-    char               name[25];
-    char               address[80];
-    struct record*     next;
-};
-    
-```
-
-Although it is on the simpler side, it is simple to add more functionalities to this database. Banking has never looked so easy before!
-
-
-Source: <a href="https://github.com/bhavanikay/ZombieApocalypseMaze"><i class="large github icon "></i>bhavanikay/ZombieApocalypseMaze</a>
+Virtual pets are a source of nostalgia for all of us. Whether it was Tamagotchi, Neopets, Webkinz, etc our beloved virtual friends were always a huge part of our lives. I wanted to bring this experience back with this interactive game. In this game, you can feed the creature and help it grow! Once you feed it enough, you will have successfully raised it into an adult creature and win the game. We took many components to put this game together, such as the background and the design of the creature. It comes with sound effects to know when it is being fed and to enhance the overall experience of the game. 
+ 
+Source: <a href="https://github.com/bhavanikay/FeedTheCreatureGame"><i class="large github icon"></i>bhavanikay/FeedTheCreatureGame</a>
 
