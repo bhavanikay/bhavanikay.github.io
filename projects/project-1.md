@@ -9,10 +9,10 @@ date: 2019-09-27
 labels:
   - Java
   - EZGraphics
-summary: A maze game that I created for ICS 111.
+summary: A bank database I created for ICS 212.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/zombie.png">
+<img class="ui image" src="{{ site.baseurl }}/images/bankingdb.png">
 
 This banking database allows users to create a new bank record, view  and edit existing records, and delete records if they wish. This database is written in C and uses the following struct for information:
 
