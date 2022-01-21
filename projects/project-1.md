@@ -1,20 +1,23 @@
 ---
 layout: project
 type: project
-image: images/pet.png
-title: Feed the Creature
-permalink: projects/vacay
+image: images/zombie.png
+title: Zombie Apocalypse Maze
+permalink: projects/ZombieApocalypseMaze
 # All dates must be YYYY-MM-DD format!
-date: 2019-11-15
+date: 2019-09-27
 labels:
   - Java
   - EZGraphics
-summary: A virtual pet game my group and I created for our ICS 111 project. 
+summary: A maze game that I created for ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/pet.png">
+<img class="ui image" src="{{ site.baseurl }}/images/zombie.png">
 
-Virtual pets are a source of nostalgia for all of us. Whether it was Tamagotchi, Neopets, Webkinz, etc our beloved virtual friends were always a huge part of our lives. I wanted to bring this experience back with this interactive game. In this game, you can feed the creature and help it grow! Once you feed it enough, you will have successfully raised it into an adult creature and win the game. We took many components to put this game together, such as the background and the design of the creature. It comes with sound effects to know when it is being fed and to enhance the overall experience of the game. 
- 
-Source: <a href="https://github.com/bhavanikay/FeedTheCreatureGame"><i class="large github icon"></i>bhavanikay/FeedTheCreatureGame</a>
+In the case of a zombie apocalypse, it is essential to have your priorities straight. You must know what to avoid (abandoned buildings, fires, and zombies) and what to find. In this game, players get a chance to use their quick thinking and reflexes to drive their car through a zombie apocalypse. They must pick up others who need help while collecting medical kits and other resources at the same time. They must avoid buildings and zombies at all costs. Here is a link to a [video of the gameplay](https://www.youtube.com/watch?v=sMU1ypQf9JI).
+
+
+
+
+Source: <a href="https://github.com/bhavanikay/ZombieApocalypseMaze"><i class="large github icon "></i>bhavanikay/ZombieApocalypseMaze</a>
 
