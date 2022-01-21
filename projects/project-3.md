@@ -16,7 +16,7 @@ summary: A maze game that I created for ICS 111.
 
 In the case of a zombie apocalypse, it is essential to have your priorities straight. You must know what to avoid (abandoned buildings, fires, and zombies) and what to find. In this game, players get a chance to use their quick thinking and reflexes to drive their car through a zombie apocalypse. They must pick up others who need help while collecting medical kits and other resources at the same time. They must avoid buildings and zombies at all costs. Here is a link to a [video of the gameplay](https://www.youtube.com/watch?v=sMU1ypQf9JI).
 
-This zombie game is the first technical project I have done related to programming. I had fun thinking about a theme for the game that would incorporate my love for scary movies (specifically zombie movies) with the requirements presented to us. 
+This zombie game is the first technical project I have done related to programming. I had fun thinking about a theme for the game that would incorporate my love for scary movies (specifically zombie movies) with the requirements presented to us. I used EZGraphics in order to create this game, and I learned a lot about Object Oriented Programming. It was interesting to me how you could essentially create a virtual object and assign any properties to it. This allowed me to expand my horizons and come up with creative ideas that I would not normally do. 
 
 
 
