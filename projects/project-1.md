@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/bankingdb.jpg
-title: Micromouse
+title: Banking Database
 permalink: projects/bankingdb
 # All dates must be YYYY-MM-DD format!
 date: 2021-3-15
