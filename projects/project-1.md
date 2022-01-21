@@ -28,3 +28,5 @@ struct record
 ```
 
 Although it is on the simpler side, it is simple to add more functionalities to this database. Banking has never looked so easy before!
+
+Source: <a href="https://github.com/bhavanikay/BankDatabase"><i class="large github icon"></i>bhavanikay/BankDatabase</a>
