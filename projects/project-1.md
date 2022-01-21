@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/zombie.png
-title: Zombie Apocalypse Maze
-permalink: projects/ZombieApocalypseMaze
+image: images/bankingdb.png
+title: Bank Database
+permalink: projects/BankDatabase
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-27
 labels:
