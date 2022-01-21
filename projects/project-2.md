@@ -9,7 +9,7 @@ date: 2019-11-15
 labels:
   - Java
   - EZGraphics
-summary: A virtual pet game my group and I created for our ICS 111 project. 
+summary: A virtual pet game my group and I created for ICS 111 project. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/pet.png">
