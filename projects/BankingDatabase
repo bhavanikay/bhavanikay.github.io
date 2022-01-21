@@ -14,7 +14,7 @@ summary: A banking database I created for my ICS 212 class.
 
 <img class="ui medium right floated rounded image" src="../images/bankingdb.png">
 
-This banking database allows users to create a new bank record, view  and edit existing records, and delete records if they wish. This database is written in C and uses the following struct for information:
+This banking database allows users to create a new bank record, view  and edit existing records, and delete records if they wish. This database is written in C and uses the following struct
 
 ```
 struct record
