@@ -9,7 +9,7 @@ date: 2019-09-27
 labels:
   - Java
   - EZGraphics
-summary: A maze game that I created for ICS 111.
+summary: A bank database I created for ICS 212.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/zombie.png">
