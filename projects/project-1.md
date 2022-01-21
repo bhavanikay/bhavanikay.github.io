@@ -5,10 +5,9 @@ image: images/bankingdb.png
 title: Bank Database
 permalink: projects/BankDatabase
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-27
+date: 2021-09-27
 labels:
-  - Java
-  - EZGraphics
+  - C
 summary: A bank database I created for ICS 212.
 ---
 
