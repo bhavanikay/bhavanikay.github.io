@@ -18,16 +18,6 @@ This banking database allows users to create a new bank record, view  and edit e
 
 
 
-```
-struct record
-{
-    int                accountno;
-    char               name[25];
-    char               address[80];
-    struct record*     next;
-};
-    
-```
 
 Although it is on the simpler side, it is simple to add more functionalities to this database. Banking has never looked so easy before!
 
