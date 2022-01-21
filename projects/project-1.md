@@ -1,35 +1,23 @@
 ---
 layout: project
 type: project
-image: images/bankingdb.png
-title: Bank Database
-permalink: projects/bankingdb
+image: images/zombie.png
+title: Zombie Apocalypse Maze
+permalink: projects/ZombieApocalypseMaze
 # All dates must be YYYY-MM-DD format!
-date: 2021-3-15
+date: 2019-09-27
 labels:
-  - C
-  - Banking
-summary: A banking database I created for my ICS 212 class.
+  - Java
+  - EZGraphics
+summary: A maze game that I created for ICS 111.
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/zombie.png">
 
-
-This banking database allows users to create a new bank record, view  and edit existing records, and delete records if they wish. This database is written in C and uses the following struct for information:
-
-
-```
-struct record
-{
-    int                accountno;
-    char               name[25];
-    char               address[80];
-    struct record*     next;
-};
-    
-```
-
-Although it is on the simpler side, it is simple to add more functionalities to this database. Banking has never looked so easy before!
+In the case of a zombie apocalypse, it is essential to have your priorities straight. You must know what to avoid (abandoned buildings, fires, and zombies) and what to find. In this game, players get a chance to use their quick thinking and reflexes to drive their car through a zombie apocalypse. They must pick up others who need help while collecting medical kits and other resources at the same time. They must avoid buildings and zombies at all costs. Here is a link to a [video of the gameplay](https://www.youtube.com/watch?v=sMU1ypQf9JI).
 
 
 
+
+Source: <a href="https://github.com/bhavanikay/ZombieApocalypseMaze"><i class="large github icon "></i>bhavanikay/ZombieApocalypseMaze</a>
 
