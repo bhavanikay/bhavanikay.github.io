@@ -1,3 +1,11 @@
+--- 
+layout: essay
+type: essay
+published: true
+title: Ask Correctly and You Shall Receive
+date: 2022-01-27
+
+---
 
 ## Why You Need to Know How to Ask Correctly
 It is crucial to learn how to ask questions correctly, not only when dealing with computer science related topics but in general. With modern technology comes websites such as Stack Overflow and The Coding Forums, which can be extremely valuable resources when used correctly. Think about it, if hundreds of thousands of programmers every day encounter a number of issues and turn to these websites to find answers to their questions, the number of queries every day would be astronomical. However, if we can learn to ask the right questions in the correct way, it would be much easier for everyone to get the answers that they are looking for. Although an answer is not guaranteed and should not be expected, the likelihood of a question being addressed is much higher if it is asked in a constructive and thoughtful way. 
