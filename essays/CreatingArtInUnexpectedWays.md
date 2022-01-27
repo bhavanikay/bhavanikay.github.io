@@ -4,7 +4,10 @@ type: essay
 published: true
 title: Creating Art in Unexpected Ways
 date: 2022-01-23
-
+labels:
+  - Java
+  - Computer Science
+  - Software Engineering
 ---
 
 ## A Rocky Beginning... 
