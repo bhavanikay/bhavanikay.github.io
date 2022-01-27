@@ -4,7 +4,11 @@ type: essay
 published: true
 title: Ask Correctly and You Shall Receive
 date: 2022-01-27
-
+labels:
+  - Computer Science
+  - Software Engineering 
+  - Asking Questions
+  - Stack Overflow
 ---
 
 ## Why You Need to Know How to Ask Correctly
