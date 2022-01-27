@@ -4,7 +4,11 @@ type: essay
 published: true
 title: Challenging Myself One Line at a Time
 date: 2022-01-19
-
+labels:
+  - JavaScript
+  - Computer Science
+  - Software Engineering
+  - Atheltic Programming
 ---
 
 ## A Reward That Doesn’t Come Easily
