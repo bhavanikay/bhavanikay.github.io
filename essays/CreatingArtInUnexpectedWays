@@ -1,4 +1,14 @@
-A Rocky Beginning... I had my first experience with programming when I
+--- 
+layout: essay
+type: essay
+published: true
+title: Creating Art in Unexpected Ways
+date: 2022-01-23
+
+---
+
+##A Rocky Beginning... 
+I had my first experience with programming when I
 was 13. My uncle would spend an hour every Thursday teaching me Java. As
 much as I would love to be able to say that I had a natural affinity for
 it and that his efforts to teach me were not in vain, the truth was
@@ -10,7 +20,8 @@ loops" and "classes." I began to dread Thursdays, and I eventually
 promised myself that I would never write another line of code again.  I
 broke that promise to myself in less than a year. 
 
-Getting Back on the Horse As a young teenager who was too shy for
+##Getting Back on the Horse
+As a young teenager who was too shy for
 Twitter and too insecure for Instagram, I found the perfect social media
 platform for me: Tumblr. The creative potential, the anonymity, and the
 community of people who were different yet so similar to me really
@@ -35,7 +46,8 @@ my new knowledge of HTML with my creativity. This was a new outlet I
 never would have considered, and I realized that programming languages
 would be valuable to learn. 
 
-Endless Possibilities at my Fingertips My favorite thing about my
+##Endless Possibilities at my Fingertips
+My favorite thing about my
 journey with learning computer science is that I  no longer feel
 controlled by my code. Instead, I have the ability to be in control of
 everything. If I say something should be red, my computer asks, "What
