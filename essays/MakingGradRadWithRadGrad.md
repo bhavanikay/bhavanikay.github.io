@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Making Grad Rad, with Rad Grad!
+title: Making Grad Rad, with RadGrad!
 date: 2022-02-17
 labels:
   - Computer Science
