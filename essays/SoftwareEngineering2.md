@@ -3,11 +3,11 @@ layout: essay
 type: essay
 published: true
 title: Software Engineering 2: A Familiar Experience
-date: 2022-12-15
+date: 2022-02-24
 labels:
   - Computer Science
   - Software Engineering 
-  - Project Management
+  - Semantic UI
   - UI Frameworks
   - HTML
   - CSS
