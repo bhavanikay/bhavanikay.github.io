@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: Seeing Beautiful Sites with Semantic UI
-date: 2022-02-24
+date: 2022-12-15
 labels:
   - Computer Science
   - Software Engineering 
