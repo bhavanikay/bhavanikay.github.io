@@ -2,12 +2,12 @@
 layout: essay
 type: essay
 published: true
-title: Seeing Beautiful Sites with Semantic UI
-date: 2022-02-24
+title: ICS 414: A Familiar Experience
+date: 2022-12-15
 labels:
   - Computer Science
   - Software Engineering 
-  - Semantic UI
+  - Project Management
   - UI Frameworks
   - HTML
   - CSS
