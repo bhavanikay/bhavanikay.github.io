@@ -2,15 +2,11 @@
 layout: essay
 type: essay
 published: true
-title: Software Engineering 2
-date: 2022-02-24
+title: Software Engineering 2: A Familiar Experience
+date: 2022-12-15
 labels:
   - Computer Science
   - Software Engineering 
-  - Semantic UI
-  - UI Frameworks
-  - HTML
-  - CSS
 ---
 
 ## A Solid Foundation
