@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: ICS 414: A Familiar Experience
+title: ICS 414 - A Familiar Experience
 date: 2022-12-15
 labels:
   - Computer Science
