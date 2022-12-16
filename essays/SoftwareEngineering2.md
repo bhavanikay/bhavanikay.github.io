@@ -1,13 +1,4 @@
---- 
-layout: essay
-type: essay
-title: Software Engineering 2: A Familiar Experience
-date: 2022-12-15
-labels:
-  - Computer Science
-  - Software Engineering 
-  - Project Management
----
+
 
 ## A Solid Foundation
 ICS 414, Software Engineering 2,  is the next level course after ICS 314, Software Engineering 1. Although I was not really sure what to expect prior to starting this class, I assumed that we would be utilizing a lot of the topics that we had learned in ICS 314. I was correct in this assumption. While ICS 314 mainly revolved around learning the basics of developing functional web applications, ICS 414 took that a step further and instead of creating web applications for the class we created them for a real client. This was a very interesting experience for me because I was able to learn how to understand a client’s needs when doing work for them. In our case, we were working with the Department of Education (DOE) to create a legislative tracker that would monitor the status of a proposal throughout its lifecycle. In order to do this, we needed to gain a thorough understanding of the legislative process. What I especially enjoyed about these beginning stages is the intersection of software engineering and something seemingly unrelated, such as bills in the legislature. This made me realize how I could use my programming background regardless of the industry I want to work in, because every industry needs someone to manage their websites and other technical operations. Something that surprised me is the amount of questions we had while going through the planning stages of the process. When we had first learned about the specifications of what the DOE expected, it seemed straightforward. However, the more research we did, the more specific our questions had become, and we had so many of them! For example, something I had never fully considered until creating a roadmap for the legislative process was whether a bill could become “alive” again once it was dead (the answer is no). The more questions we asked, the more in depth our understanding became. To me, this reinforced the idea that asking questions in a workplace or any collaborative environment is the most important aspect of creating a successful project outcome.
