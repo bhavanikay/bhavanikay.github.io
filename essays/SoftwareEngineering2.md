@@ -7,7 +7,7 @@ date: 2022-12-15
 labels:
   - Computer Science
   - Software Engineering 
-  - Semantic UI
+  - Project Management
   - UI Frameworks
   - HTML
   - CSS
