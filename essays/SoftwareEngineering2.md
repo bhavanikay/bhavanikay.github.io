@@ -1,7 +1,6 @@
 --- 
 layout: essay
 type: essay
-published: true
 title: Software Engineering 2: A Familiar Experience
 date: 2022-12-15
 labels:
