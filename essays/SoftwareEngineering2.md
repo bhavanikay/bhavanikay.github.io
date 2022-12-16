@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Software Engineering 2: A Familiar Experience
+title: Seeing Beautiful Sites with Semantic UI
 date: 2022-02-24
 labels:
   - Computer Science
